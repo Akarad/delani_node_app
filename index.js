@@ -1,3 +1,3 @@
-let server = require('./server');
+let server = require ('./server');
 
 server.start();
