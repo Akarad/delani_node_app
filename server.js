@@ -9,12 +9,9 @@ let start = function(route, handle){
        let pathname = url.parse(request.url).pathname
        console.log("Request for " + pathname + " has been received.")
       
-       // Passing the pathname as a parameter to the route function
-       route(handle, pathname);
+       // Inject the response object into the route function
+       route(handle, pathname, response);
 
-       response.writeHead(200, {"Content-type": "text/plain"});
-       response.write("Hello World");
-       response.end();
    }
   
    http.createServer(onRequest).listen(8000);

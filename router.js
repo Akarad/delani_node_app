@@ -1,10 +1,13 @@
-function route(handle, pathname){
+function route(handle, pathname, response){
     console.log("About to route a request for " + pathname);
-    //check if the request url is a function. Since we mapped our expected request urls to a function in request handlers.
-    if (typeof handle[pathname]=== 'function'){
-        handle[pathname]()
+    // Check if the request url is a function. since we mapped the our expected request urls to a function in request handlers
+    if (typeof handle[pathname]==='function'){
+         handle[pathname](response)
     }else{
         console.log("No request handler found for " + pathname);
+        response.writeHead(404, {"Content-Type": "text/plain"});
+        response.write("404 Not found");
+        response.end();
     }
  }
  
