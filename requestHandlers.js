@@ -1,17 +1,19 @@
-let exec = require("child_process").exec;
+let fs = require("fs");
 
 // function for handling the business logic for index.html
 function index (response){
    console.log("Request handler for index was called.")
   
-   exec("ls -lah", function(error, stdout, stderr){
-      
-       response.writeHead(200, {"Content-type": "text/plain"});
-       response.write(stdout);
-       response.end(); 
+   // Reading the index.html file and attaching the content to the response
+   fs.readFile("./public/index.html",function(error, data){
+       if (error){
+           console.log(err); 
+       }
+       response.writeHead(200, {"Content-type": "text/html"});
+       response.write(data);
+       response.end();
    })
-
-}
+   }
 
 // function for handling the business logic for  portfolio.html
 function portfolio(response){
