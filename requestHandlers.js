@@ -19,6 +19,7 @@ function index (response){
 
 // function for handling the business logic for  portfolio.html
 function portfolio(response){
+    logger.info("About to route a request for " + pathname);
     console.log("Request for handler for portfolio was called.")
     response.writeHead(200, {"Content-type": "text/plain"});
     response.write("These are some of our portfolio projects");
