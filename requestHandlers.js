@@ -1,8 +1,10 @@
 let fs = require("fs");
+let Logger = require('./logger');
+let logger = new Logger('Router');
 
 // function for handling the business logic for index.html
 function index (response){
-   console.log("Request handler for index was called.")
+    console.log("Request handler for index was called.")
   
    // Reading the index.html file and attaching the content to the response
    fs.readFile("./public/index.html",function(error, data){
@@ -17,11 +19,10 @@ function index (response){
 
 // function for handling the business logic for  portfolio.html
 function portfolio(response){
-   console.log("Request for handler for portfolio was called.")
-   response.writeHead(200, {"Content-type": "text/plain"});
-   response.write("These are some of our portfolio projects");
-   response.end();
-  
+    console.log("Request for handler for portfolio was called.")
+    response.writeHead(200, {"Content-type": "text/plain"});
+    response.write("These are some of our portfolio projects");
+    response.end();
 }
 
 
