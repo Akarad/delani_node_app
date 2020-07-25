@@ -7,6 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+
+  "engines": {
+    "node": "14.5"
+  },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Akarad/delani_node_app.git"
@@ -19,3 +24,5 @@
   },
   "homepage": "https://github.com/Akarad/delani_node_app#readme"
 }
+
+

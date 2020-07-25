@@ -248,3 +248,35 @@ Thu Jul 23 2020 16:01:08 GMT+0300 (East Africa Time) | INFO | Server | Request f
 Thu Jul 23 2020 16:01:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/backgrounds/s_image.jpg 
 Thu Jul 23 2020 16:01:08 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/backgrounds/c_image.jpg has been received with the request method GET 
 Thu Jul 23 2020 16:01:08 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/backgrounds/c_image.jpg 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for / 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /js/scripts.js 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /css/bootstrap.css 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /css/styles.css 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/logo/logo.png 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/mouse_click.png 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/services_icons/design_icon.png 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/services_icons/dev_icon.png 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/services_icons/product_icon.png 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/portfolio/work4.jpg 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/portfolio/work3.jpg 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/portfolio/work2.jpg 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/portfolio/work1.jpg 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/portfolio/work5.jpg 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/portfolio/work6.jpg 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/portfolio/work7.jpg 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/portfolio/work8.jpg 
+Sat Jul 25 2020 15:00:44 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/twitter.png 
+Sat Jul 25 2020 15:00:45 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/dribble.png 
+Sat Jul 25 2020 15:00:45 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/facebook.png 
+Sat Jul 25 2020 15:00:45 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/g_plus.png 
+Sat Jul 25 2020 15:00:45 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/skype.png 
+Sat Jul 25 2020 15:00:45 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/stumble_upon.png 
+Sat Jul 25 2020 15:00:45 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/behance.png 
+Sat Jul 25 2020 15:00:45 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/pinterest.png 
+Sat Jul 25 2020 15:00:45 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/flickr.png 
+Sat Jul 25 2020 15:00:45 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/you_tube.png 
+Sat Jul 25 2020 15:00:47 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/backgrounds/h_img.jpg 
+Sat Jul 25 2020 15:00:47 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/backgrounds/s_image.jpg 
+Sat Jul 25 2020 15:00:47 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/backgrounds/c_image.jpg 
+Sat Jul 25 2020 15:00:47 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /favicon.ico 
+Sat Jul 25 2020 15:00:47 GMT+0300 (East Africa Time) | INFO | Router | No request handler found for /favicon.ico 
