@@ -280,3 +280,67 @@ Sat Jul 25 2020 15:00:47 GMT+0300 (East Africa Time) | INFO | Router | About to 
 Sat Jul 25 2020 15:00:47 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/backgrounds/c_image.jpg 
 Sat Jul 25 2020 15:00:47 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /favicon.ico 
 Sat Jul 25 2020 15:00:47 GMT+0300 (East Africa Time) | INFO | Router | No request handler found for /favicon.ico 
+Sun Jul 26 2020 17:38:13 GMT+0300 (East Africa Time) | INFO | Server | Server has started on Port: 8000 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Server | Request for / has been received with the request method GET 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for / 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Server | Request for /css/bootstrap.css has been received with the request method GET 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /css/bootstrap.css 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Server | Request for /css/styles.css has been received with the request method GET 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /css/styles.css 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/logo/logo.png has been received with the request method GET 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/logo/logo.png 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/mouse_click.png has been received with the request method GET 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/mouse_click.png 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/services_icons/design_icon.png has been received with the request method GET 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/services_icons/design_icon.png 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Server | Request for /js/scripts.js has been received with the request method GET 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /js/scripts.js 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/services_icons/dev_icon.png has been received with the request method GET 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/services_icons/dev_icon.png 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/services_icons/product_icon.png has been received with the request method GET 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/services_icons/product_icon.png 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/portfolio/work4.jpg has been received with the request method GET 
+Sun Jul 26 2020 17:38:23 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/portfolio/work4.jpg 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/portfolio/work3.jpg has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/portfolio/work3.jpg 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/portfolio/work2.jpg has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/portfolio/work2.jpg 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/portfolio/work5.jpg has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/portfolio/work5.jpg 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/portfolio/work1.jpg has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/portfolio/work1.jpg 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/portfolio/work6.jpg has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/portfolio/work6.jpg 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/portfolio/work7.jpg has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/portfolio/work7.jpg 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/portfolio/work8.jpg has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/portfolio/work8.jpg 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/social_icons/twitter.png has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/twitter.png 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/social_icons/dribble.png has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/dribble.png 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/social_icons/facebook.png has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/facebook.png 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/social_icons/skype.png has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/skype.png 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/social_icons/g_plus.png has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/g_plus.png 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/social_icons/stumble_upon.png has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/stumble_upon.png 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/social_icons/behance.png has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/behance.png 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/social_icons/flickr.png has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/flickr.png 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/social_icons/pinterest.png has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/pinterest.png 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/social_icons/you_tube.png has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/social_icons/you_tube.png 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/backgrounds/h_img.jpg has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/backgrounds/h_img.jpg 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/backgrounds/s_image.jpg has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/backgrounds/s_image.jpg 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /assets/backgrounds/c_image.jpg has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /assets/backgrounds/c_image.jpg 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Server | Request for /favicon.ico has been received with the request method GET 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | About to route a request for /favicon.ico 
+Sun Jul 26 2020 17:38:24 GMT+0300 (East Africa Time) | INFO | Router | No request handler found for /favicon.ico 
